@@ -6,6 +6,7 @@ Developed a real-time control system for street lighting that enables:
 * Managing light levels based on
   
     • ambient light(Day->off, Night->on);
+  
     • velocity of the passing vehicle(higher velocity->stronger light; slower vehicles don't need as much light as faster ones);
 
 Managing light levels in this way reduces power usage and light pollution.
