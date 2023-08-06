@@ -25,3 +25,7 @@ Technology:
 * Built on top of Arduino Mega, connected to 5 modules with infrared (for motion sensing) and a light 
 dependent resistor for ambient light measuring
 * Real-time processing system, based on FreeRTOS, with guaranteed responding to an input signal
+
+
+https://github.com/CDurbala/streetlighting/assets/141177908/9aef9850-a757-4285-ae6d-24d3a93984ea
+
