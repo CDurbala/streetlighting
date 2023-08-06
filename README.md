@@ -13,14 +13,19 @@ Managing light levels in this way reduces power usage and light pollution.
 
 Some problems solved:
 * Vehicle position tracking
-      • Counter system that tracks in which areas vehicles are
-      • Limited to tracking movement in one direction
+
+  • Counter system that tracks in which areas vehicles are
+
+  • Limited to tracking movement in one direction
          (Extending in both directions can be done by swapping the counter with a timer, or by doubling 
           the sensors to understand the direction; further expanded in the thesis)
 * Speed-based lighting
-      • Measuring speed done by recording the time deltas between sensor activations
-      • Can measure the speed of two vehicles simultaneously (as long as there's no overtaking)
-      • Light intensity determined by the measured speed
+
+  • Measuring speed done by recording the time deltas between sensor activations
+
+  • Can measure the speed of two vehicles simultaneously (as long as there's no overtaking)
+
+  • Light intensity determined by the measured speed
 
 Technology:
 * Written in C++ (Arduino variant) 
